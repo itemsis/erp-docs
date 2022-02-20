@@ -7,5 +7,6 @@ module.exports = {
           { text: 'Home', link: '/'}
       ],
       sidebar: [{text: 'Home', link: '/'}]
-  }
+  },
+  base: '/docs/',
 }
